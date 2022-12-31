@@ -1,7 +1,7 @@
 import { colors } from "../../theme/colors";
 import { typography } from "../../theme/typography";
 
-const BASE = {
+export const BASE = {
   fontFamily: typography.primary,
   fontSize: 16,
   color: colors.white,
