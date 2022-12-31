@@ -1,5 +1,3 @@
-## npx expo run
+## Screen shots
 
-## Debug console
-
-cmd + d
+![Screen:1](./screenShots/Screen_1.png)
